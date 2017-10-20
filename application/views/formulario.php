@@ -27,6 +27,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
       <input type="text" placeholder="Direccion de Email" class="textbox" name="correo" />
       <input type="submit" value="Next" class="button" />
       <?php echo form_close() ?>
+      
     
   </div>
 </div>
